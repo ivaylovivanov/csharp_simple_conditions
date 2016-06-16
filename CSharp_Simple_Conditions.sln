@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L10_MetricConverter", "L10_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L11_CurrencyConverter", "L11_CurrencyConverter\L11_CurrencyConverter.csproj", "{2C50BE5C-60A0-49F5-B453-58D38E44B589}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L12_GuessPass", "L12_GuessPass\L12_GuessPass.csproj", "{59798C80-A785-40DD-A4AE-41B56669BE11}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{2C50BE5C-60A0-49F5-B453-58D38E44B589}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C50BE5C-60A0-49F5-B453-58D38E44B589}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C50BE5C-60A0-49F5-B453-58D38E44B589}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59798C80-A785-40DD-A4AE-41B56669BE11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59798C80-A785-40DD-A4AE-41B56669BE11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59798C80-A785-40DD-A4AE-41B56669BE11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59798C80-A785-40DD-A4AE-41B56669BE11}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
